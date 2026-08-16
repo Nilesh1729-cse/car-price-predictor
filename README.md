@@ -3,7 +3,7 @@
 A Machine Learning application built with Flask, HTML5, and Bootstrap 5 that predicts second-hand car prices using a Linear Regression model.
 
 ## 🔗 Live Demo
-Try the application here: [Car Price Predictor Web App]((https://car-price-predictor-ybwj.onrender.com/))
+Try the application here: [Car Price Predictor Web App]([https://car-price-predictor-ybwj.onrender.com/])
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript (AJAX)
