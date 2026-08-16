@@ -1,11 +1,12 @@
-# 🚗 Car Price Predictor
+# 🚗 Car Price Predictor (Flask + Bootstrap)
 
-A Machine Learning application built with Streamlit and Python that predicts second-hand car prices based on brand, model, purchase year, fuel type, and kilometers driven.
+A Machine Learning application built with Flask, HTML5, and Bootstrap 5 that predicts second-hand car prices using a Linear Regression model.
 
 ## 🔗 Live Demo
-Try the live application here: [Car Price Predictor Web App](https://car-price-predictor-wopjg9df8hfdc9cvcqqrud.streamlit.app/)
+Try the application here: [Car Price Predictor Web App]((https://car-price-predictor-ybwj.onrender.com/))
 
 ## 🛠️ Tech Stack
-- **UI Framework:** Streamlit
-- **Machine Learning:** Scikit-Learn (Linear Regression)
-- **Data Manipulation:** Pandas, NumPy
+- **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript (AJAX)
+- **Backend:** Flask (Python)
+- **Machine Learning:** Scikit-Learn (Linear Regression), Pandas, NumPy
+- **Deployment:** Render / Gunicorn
